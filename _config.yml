@@ -16,7 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "People"}
+  - {file: "index.html", title: "Home"}
+  - {file: "people.html", title: "People"}
   - {file: "README.md", title: "Values"}
   - {file: "pubs.html", title: "Publications"}
   - {title: "Code", url: "https://github.com/ExCaLBBR/ExCaLBBR_Projects"}
